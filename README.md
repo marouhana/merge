@@ -1,3 +1,5 @@
 # merge
-Local 
-LOcal
+REMOTE
+Local
+Local
+
